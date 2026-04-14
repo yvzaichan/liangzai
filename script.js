@@ -1,12 +1,12 @@
 const gifStages = [
-    "IMG_4294.JPEG",
-    "IMG_4295.JPEG",
-    "IMG_4295.JPEG",
-    "IMG_4296.JPEG",
-    "IMG_4296.JPEG",
-    "IMG_4297.JPEG",
-    "IMG_4297.JPEG",
-    "IMG_4298.JPEG"
+    "./IMG_4294.JPEG",
+    "./IMG_4295.JPEG",
+    "./IMG_4295.JPEG",
+    "./IMG_4296.JPEG",
+    "./IMG_4296.JPEG",
+    "./IMG_4297.JPEG",
+    "./IMG_4297.JPEG",
+    "./IMG_4298.JPEG"
 ]
 
 const noMessages = [
