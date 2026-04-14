@@ -1,11 +1,12 @@
 const gifStages = [
-    src="IMG_4295.JPEG",
-    src="IMG_4295.JPEG",
-    src="IMG_4296.JPEG",
-    src="IMG_4296.JPEG",
-    src="IMG_4297.JPEG",
-    src="IMG_4297.JPEG",
-    src="IMG_4298.JPEG",
+    "https://raw.githubusercontent.com/yvzaichan/liangzai/refs/heads/main/IMG_4294.JPEG",
+    "https://raw.githubusercontent.com/yvzaichan/liangzai/refs/heads/main/IMG_4294.JPEG",
+    "https://raw.githubusercontent.com/yvzaichan/liangzai/refs/heads/main/IMG_4295.JPEG",
+    "https://raw.githubusercontent.com/yvzaichan/liangzai/refs/heads/main/IMG_4296.JPEG",
+    "https://raw.githubusercontent.com/yvzaichan/liangzai/refs/heads/main/IMG_4296.JPEG",
+    "https://raw.githubusercontent.com/yvzaichan/liangzai/refs/heads/main/IMG_4297.JPEG",
+    "https://raw.githubusercontent.com/yvzaichan/liangzai/refs/heads/main/IMG_4297.JPEG",
+    "https://raw.githubusercontent.com/yvzaichan/liangzai/refs/heads/main/IMG_4298.JPEG"
 ]
 
 const noMessages = [
